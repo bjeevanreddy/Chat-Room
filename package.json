@@ -4,7 +4,7 @@
   "description": "A simple chat app",
   "main": "index.js",
   "scripts": {
-    "web":"nodemon index.js",
+    "web": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Jeevan",
